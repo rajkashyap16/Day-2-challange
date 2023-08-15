@@ -5,11 +5,6 @@ Hello everyone! 🌟 Excited to share my Day 2 accomplishment in my 30-day codin
 
 🌐 Check out the live demo: https://rajkashyap16.github.io/Day-2-challange/
 
-What I Built:
-✅ A visually engaging progress steps component using HTML and styled with CSS.
-✅ The steps light up as users navigate, enhancing user experience.
-✅ Embracing clean code practices for maintainability and reusability.
-
 I'm truly enjoying this coding journey, and each day brings new insights. A huge shoutout to the supportive coding community for inspiring me to keep pushing my boundaries!
 
 #30DaysOfCode #HTMLCSSChallenge #LearningAndGrowing
